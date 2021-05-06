@@ -18,6 +18,8 @@ public class SellerController {
 	@Autowired
 	private SellerService service;
 	
+	//http://localhost:8080/sellers
+	
 	@GetMapping
 	public ResponseEntity<List<SellerDTO>> findaAll(){
 		List<SellerDTO> list = service.findAll();
