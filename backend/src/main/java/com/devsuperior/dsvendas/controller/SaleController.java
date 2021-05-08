@@ -29,6 +29,7 @@ public class SaleController {
 		return ResponseEntity.ok(list);
 	}
 	
+	//http://localhost:8080/sales/amount-by-seller
 	@GetMapping(value = "/amount-by-seller")
 	public ResponseEntity<List<SaleSumDTO>> amountGroupBySeller(){
 		List<SaleSumDTO> list = service.amountGroupBySeller();
