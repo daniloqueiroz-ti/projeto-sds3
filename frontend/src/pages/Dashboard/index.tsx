@@ -1,8 +1,8 @@
-import BarChart from "components/barchart";
-import DataTable from "components/datatable";
-import DonutChart from "components/donutchart";
-import Footer from "components/footer";
-import NavBar from "components/navbar";
+import BarChart from "components/BarChart/index";
+import DataTable from "components/DataTable/index";
+import DonutChart from "components/DonutChart/index";
+import Footer from "components/Footer/index";
+import NavBar from "components/NavBar/index";
 
 function Dashboard() {
   return (

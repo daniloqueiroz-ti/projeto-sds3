@@ -1,8 +1,8 @@
-import BarChart from 'components/barchart';
-import DonutChart from 'components/donutchart';
-import DataTable from 'components/datatable';
-import Footer from 'components/footer';
-import NavBar from 'components/navbar';
+import BarChart from 'components/BarChart';
+import DonutChart from 'components/DonutChart';
+import DataTable from 'components/DataTable';
+import Footer from 'components/Footer';
+import NavBar from 'components/NavBar';
 import React from 'react';
 import Routes from 'Routes';
 
