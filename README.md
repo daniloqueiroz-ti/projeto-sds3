@@ -1,10 +1,10 @@
-## Projeto web em React com Spring Rest
+## Web project in React with Spring Rest
 
-- Projeto desenvolvido na semana do Dev Superior.
-- Este foi desenvolvido usando Spring Boot no backend e React.JS no frontend.
-- O projeto possui uma lista paginada e dois gráficos no dashboard.
+- Project developed during the Senior Dev week.
+- This project was developed using Spring Boot on the backend and React.JS on the frontend.
+- The project has a paginated list and two charts on the dashboard.
 
-## Projeto disponível para testes nas clouds: 
+## Project available for cloud testing:
 
 - netlify => https://queiroz-dsvendas.netlify.app/
 - heroku => https://sds3-queiroz.herokuapp.com/sales?page=8&size=10&sort=date,desc
